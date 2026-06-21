@@ -1,9 +1,10 @@
+<!-- 🔥 HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:050510,30:0f0f1a,100:00f7ff&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f1a,30:1a1a2e,100:00f7ff&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;System+Architect;Full-Stack+Developer;Machine+Learning+Builder;LLM+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+System+Architect+%7C+Full-Stack+Developer;Machine+Learning+Builder+%7C+LLM+Systems+Designer"/>
 </p>
 
 ---
@@ -45,6 +46,7 @@
 
 ---
 
+<!-- 🌌 FOOTER GLOW -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:00f7ff,30:5f00ff,100:050510&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00f7ff,30:5f00ff,100:050510&section=footer&animation=fadeIn"/>
 </p>

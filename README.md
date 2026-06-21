@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:ff5f6d,50:ff9966,100:ffc371&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff0844,25:ff5f6d,50:ff9966,75:ffc371,100:ffe89e&fontColor=ffffff&animation=twinkling&fontSize=35&fontAlignY=35&text=SIDICK&desc=AI%20Engineer%20%7C%20System%20Architect&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=FF7E5F&center=true&vCenter=true&width=900&lines=AI+Engineer;System+Architect;Full-Stack+Developer;Machine+Learning+Builder;LLM+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=700&color=FF5F6D&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+AI+Engineer;%F0%9F%9A%80+System+Architect;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+Machine+Learning+Builder;%F0%9F%94%A5+LLM+Systems"/>
 </p>
 
 ---
@@ -47,6 +47,6 @@
 
 <p align="center">
   <a href="https://sidick.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-ff5f6d?style=for-the-badge&logoColor=white"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff0844,50:ff9966,100:ffe89e&fontColor=ffffff&animation=fadeIn&fontSize=30&fontAlignY=55&text=🌐%20VISIT%20MY%20PORTFOLIO"/>
   </a>
 </p>

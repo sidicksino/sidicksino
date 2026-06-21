@@ -1,47 +1,81 @@
-<!-- HERO HEADER -->
-<h1 align="center">Hi, I'm Sidick Sino 👋</h1>
+<!-- ================= HERO HEADER ================= -->
+
+<h1 align="center">Sidick Abdoulaye Hissein</h1>
 
 <h3 align="center">
-AI Engineer • Full-Stack Developer • ML Builder
+AI Product Engineer • Machine Learning Builder • Full-Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+progress;Building+Machine+Learning+Systems;Full-Stack+Web+Developer;Turning+Ideas+Into+Products;Open+to+Collaboration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+real-world+systems;Full-stack+developer+%7C+ML+engineer+%7C+Product+builder;Specialized+in+AI+apps+and+data-driven+systems;Turning+machine+learning+into+real+products" />
+</p>
+
+---
+
+<!-- ================= BADGES ================= -->
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Engineer-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack-Developer-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm Sidick Sino, a developer focused on building intelligent systems and scalable web applications.
+I am Sidick Sino, an **AI Product Engineer** focused on building intelligent systems, machine learning pipelines, and scalable web applications.
 
-- 🤖 Passionate about **AI / Machine Learning / MLOps**
-- 🌐 Full-stack developer (React, Node, APIs, databases)
-- ☁️ Exploring cloud deployments (AWS, Azure, Firebase)
-- 📊 Love turning data into real-world products
-- 🚀 Currently building AI + web projects ecosystem
+### 🚀 What I Do
+- 🤖 Machine Learning systems (YOLO, churn prediction, risk models)
+- 🌐 Full-stack applications (React, TypeScript, Node.js, Django)
+- ☁️ Cloud & MLOps (Azure ML, deployment pipelines, data workflows)
+- 📊 Data-driven product development
+- ⚙️ End-to-end AI systems from data → model → product
 
 ---
 
-## ⚙️ Tech Stack
+## 🧬 Engineering Focus
 
-<p align="center">
+- 🧠 AI/ML Model Development
+- 🔁 MLOps Pipelines (Azure, deployment workflows)
+- 🌍 Web + AI integration
+- 📦 SaaS-style AI applications
+- 🔍 Data Engineering & preprocessing systems
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+---
 
+## ⚙️ Tech Stack (Real Skills Based on Your Projects)
+
+### Programming
+<p>
+Python • JavaScript • TypeScript • HTML • CSS
+</p>
+
+### AI / ML
+<p>
+Scikit-learn • TensorFlow • PyTorch • YOLO • Jupyter
+</p>
+
+### Backend / Full-stack
+<p>
+Node.js • Express • Django • MongoDB • Firebase
+</p>
+
+### Frontend
+<p>
+React • TypeScript • UI Systems • Web Apps
+</p>
+
+### Cloud / Tools
+<p>
+Azure ML • AWS (learning) • GitHub • REST APIs
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidicksino&show_icons=true&theme=tokyonight" height="180"/>
@@ -50,69 +84,64 @@ I'm Sidick Sino, a developer focused on building intelligent systems and scalabl
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidicksino&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidicksino&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph (3D Style)
+## 🚀 Featured Real Projects (From Your GitHub)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidicksino&theme=tokyonight" />
-</p>
+### 🧠 AI / ML Systems
+- YOLO object detection projects
+- Disease risk prediction system
+- Spam detection system (Azure ML version)
+- Machine learning experiments & notebooks
+
+### 🌐 Full-stack Applications
+- SinoCoffee (TypeScript product system)
+- SinoTicket (event/ticketing system)
+- SmartHire AI (AI recruitment system)
+- Boutique Frontend + Backend system
+- Duolingo clone
+
+### 📊 Data & Research Projects
+- Telco Customer Churn prediction
+- Movie recommendation system
+- Data visualization dashboards
+
+### ⚙️ Platforms / Experiments
+- SmartGuard system
+- SafeEmergency app
+- AI Emergency systems
+- Multiple API-based backend systems
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 Current Focus
 
-- 🧠 AI Projects (Machine Learning experiments & models)
-- 🛒 E-commerce system (Frontend + Backend full-stack)
-- 📊 Data Science notebooks (EDA, prediction models)
-- 🌍 Web apps (React + API + Database systems)
-- ⚙️ MLOps pipelines (AWS / Azure experiments)
+- Building production-ready AI systems
+- Improving ML engineering & deployment skills
+- Creating SaaS-style AI products
+- Strengthening Azure + cloud MLOps pipelines
+- Turning projects into real-world deployable apps
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/sidicksino">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/sidicksino">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Section
+## ⚡ Developer Mindset
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🧭 Current Focus
-
-- Building AI-powered web applications  
-- Improving ML engineering skills  
-- Deploying real-world systems on cloud  
-- Contributing to open-source  
-
----
-
-<p align="center">
-  <b>“Turning data into intelligence, and ideas into reality.”</b>
+"From data → intelligence → product → impact"
 </p>

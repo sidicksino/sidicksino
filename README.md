@@ -1,51 +1,31 @@
-<!-- ─────────────────────────────────────────────── -->
-<!--               HERO SECTION                     -->
-<!-- ─────────────────────────────────────────────── -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0f1a,50:111827,100:00f7ff&text=Sidick%20Sino&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:ff5f6d,50:ff9966,100:ffc371&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+System+Architect+%7C+Full-Stack+Developer;Machine+Learning+Engineer+%7C+LLM+Systems+Builder;Designing+Scalable+AI+%26+Software+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=FF7E5F&center=true&vCenter=true&width=900&lines=AI+Engineer;System+Architect;Full-Stack+Developer;Machine+Learning+Builder;LLM+Systems"/>
 </p>
 
 ---
 
-<!-- ─────────────────────────────────────────────── -->
-<!--              INTRO / BRAND LINE                -->
-<!-- ─────────────────────────────────────────────── -->
-
 <p align="center">
-  Building intelligent systems that merge <b>AI, software, and scalable architecture</b>.
+  <img src="https://github-profile-trophy.vercel.app/?username=sidicksino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-<!-- ─────────────────────────────────────────────── -->
-<!--                GITHUB STATS                    -->
-<!-- ─────────────────────────────────────────────── -->
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sidicksino&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidicksino&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidicksino&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidicksino&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
-
-<!-- ─────────────────────────────────────────────── -->
-<!--               STREAK + SUMMARY                -->
-<!-- ─────────────────────────────────────────────── -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidicksino&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidicksino&theme=tokyonight"/>
@@ -53,21 +33,11 @@
 
 ---
 
-<!-- ─────────────────────────────────────────────── -->
-<!--              ACHIEVEMENTS                      -->
-<!-- ─────────────────────────────────────────────── -->
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidicksino&theme=algolia&no-frame=true&no-bg=true&margin-w=12"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
-
-<!-- ─────────────────────────────────────────────── -->
-<!--              TECH STACK                        -->
-<!-- ─────────────────────────────────────────────── -->
-
-<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,django,firebase,aws,azure,docker,kubernetes,tensorflow,pytorch,mongodb,postgres,git,github"/>
@@ -75,20 +45,8 @@
 
 ---
 
-<!-- ─────────────────────────────────────────────── -->
-<!--              CONTRIBUTION GRAPH                -->
-<!-- ─────────────────────────────────────────────── -->
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<!-- ─────────────────────────────────────────────── -->
-<!--                  FOOTER                        -->
-<!-- ─────────────────────────────────────────────── -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00f7ff,50:5f00ff,100:0f0f1a&section=footer"/>
+  <a href="https://sidick.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-ff5f6d?style=for-the-badge&logoColor=white"/>
+  </a>
 </p>

@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sidicksino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=700&color=FF5F6D&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+AI+Engineer;%F0%9F%9A%80+System+Architect;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+Machine+Learning+Builder;%F0%9F%94%A5+LLM+Systems"/>
 </p>
 

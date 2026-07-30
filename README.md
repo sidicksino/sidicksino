@@ -1,49 +1,93 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff0844,25:ff5f6d,50:ff9966,75:ffc371,100:ffe89e&fontColor=ffffff&animation=twinkling&fontSize=35&fontAlignY=35&text=SIDICK&desc=AI%20Engineer%20%7C%20System%20Architect&descAlignY=55&descSize=18"/>
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=SIDICK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Products&descAlignY=58"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=2000&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full-Stack+Developer;LLM+Applications;AI+Automation"/>
+
+<br/><br/>
+
+<a href="https://github.com/sidicksino">
+<img src="https://komarev.com/ghpvc/?username=sidicksino&style=for-the-badge&color=2563EB"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 Featured
 
 <p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sidicksino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=700&color=FF5F6D&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+AI+Engineer;%F0%9F%9A%80+System+Architect;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+Machine+Learning+Builder;%F0%9F%94%A5+LLM+Systems"/>
-</p>
+<a href="https://github.com/sidicksino">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidicksino&show_icons=true&theme=transparent&hide_border=true"/>
+</a>
 
+<a href="https://github.com/sidicksino">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidicksino&layout=compact&theme=transparent&hide_border=true"/>
+</a>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidicksino&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidicksino&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidicksino&theme=tokyonight&hide_border=true"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sidicksino&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidicksino&theme=tokyonight"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=sidicksino&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidicksino&theme=github_dark"/>
+
 </p>
 
 ---
 
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,django,firebase,aws,azure,docker,kubernetes,tensorflow,pytorch,mongodb,postgres,git,github"/>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,django,firebase,docker,aws,azure,tensorflow,pytorch,mongodb,postgres,git,github,vscode"/>
+
 </p>
 
 ---
 
+## 🐍 Contributions
+
 <p align="center">
-  <a href="https://sidick.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff0844,50:ff9966,100:ffe89e&fontColor=ffffff&animation=fadeIn&fontSize=30&fontAlignY=55&text=🌐%20VISIT%20MY%20PORTFOLIO"/>
-  </a>
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/sidicksino?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sidick.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>

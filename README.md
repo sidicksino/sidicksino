@@ -21,12 +21,11 @@
 <p align="center">
 
 <a href="https://github.com/sidicksino">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidicksino&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sidicksino&show_icons=true&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/sidicksino">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidicksino&layout=compact&theme=transparent&hide_border=true"/>
-</a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sidicksino&layout=compact&theme=tokyonight&hide_border=true"/></a>
 
 </p>
 

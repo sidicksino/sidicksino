@@ -1,92 +1,111 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=SIDICK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Products&descAlignY=58"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=2000&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full-Stack+Developer;LLM+Applications;AI+Automation"/>
-
-<br/><br/>
-
-<a href="https://github.com/sidicksino">
-<img src="https://komarev.com/ghpvc/?username=sidicksino&style=for-the-badge&color=2563EB"/>
-</a>
-
-</div>
-
----
-
-## 🚀 Featured
-
-<p align="center">
-
-<a href="https://github.com/sidicksino">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sidicksino&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/sidicksino">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sidicksino&layout=compact&theme=tokyonight&hide_border=true"/></a>
-
-</p>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sidicksino&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=sidicksino&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidicksino&theme=github_dark"/>
-
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,django,firebase,docker,aws,azure,tensorflow,pytorch,mongodb,postgres,git,github,vscode"/>
-
-</p>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<div align="center">
-
-<a href="https://github.com/sidicksino?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://sidick.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png" />
+    <img width="100%" src="assets/banner.webp" alt="Sidick Abdoulaye Hissein. Data Scientist and Full-Stack Developer." />
+  </picture>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://sidick.vercel.app"><strong>Portfolio</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/sidick-sino">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://x.com/sinobour">X</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:sidickabdoulayesino1@gmail.com">Email</a>
+</p>
 
-</div>
+I build web platforms, mobile apps and machine-learning tools, taking an idea from raw data and a rough design through to something people can actually use. I'm a Data Science student working between N'Djamena, Chad and Kigali, Rwanda.
+
+My goal is to build digital products that genuinely serve students and entrepreneurs across Africa.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://aapt-eight.vercel.app/"><img src="assets/work/aapt.webp" alt="AAPT website homepage" /></a>
+      <p><strong>AAPT</strong></p>
+      <p>Web platform for Association Actions Pour Tous Tchad, a non-profit working on social cohesion and community support.</p>
+      <p><sub>React · Tailwind CSS · Supabase · i18next</sub></p>
+      <p><a href="https://aapt-eight.vercel.app/">Live site</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sinoai-chi.vercel.app/"><img src="assets/work/sino-ai.webp" alt="Sino Ai chat interface" /></a>
+      <p><strong>Sino Ai</strong></p>
+      <p>AI assistant web app with saved conversations, built on a Node.js and MongoDB backend.</p>
+      <p><sub>React · Node.js · MongoDB · OpenAI API</sub></p>
+      <p><a href="https://sinoai-chi.vercel.app/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/sidicksino/sino_Ai">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sidicksino-disease-risk-prediction-app-aqgd49.streamlit.app/"><img src="assets/work/disease-risk.webp" alt="Disease Risk Prediction app form" /></a>
+      <p><strong>Disease Risk Prediction</strong></p>
+      <p>Machine-learning app that estimates disease risk from a person's health and lifestyle inputs.</p>
+      <p><sub>Python · Scikit-learn · Pandas · Streamlit</sub></p>
+      <p><a href="https://sidicksino-disease-risk-prediction-app-aqgd49.streamlit.app/">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/sidicksino/Disease-Risk-Prediction">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sidicksino/tchadInfos_version1"><img src="assets/work/tchadinfos.webp" alt="TchadInfos mobile app home screen" /></a>
+      <p><strong>TchadInfos</strong></p>
+      <p>Mobile news app for Chad, with stories browsable by category and a live news feed.</p>
+      <p><sub>React Native · Expo · TypeScript · NewsData.io</sub></p>
+      <p><a href="https://github.com/sidicksino/tchadInfos_version1">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://school-rosy-nine.vercel.app/"><img src="assets/work/academie-royale.webp" alt="Académie Royale website homepage" /></a>
+      <p><strong>Académie Royale</strong></p>
+      <p>Official website for an educational institution in N'Djamena.</p>
+      <p><sub>React · Tailwind CSS · Supabase · i18next</sub></p>
+      <p><a href="https://school-rosy-nine.vercel.app/">Live site</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sino-coffee.vercel.app/"><img src="assets/work/sinocoffee.webp" alt="SinoCoffee website homepage" /></a>
+      <p><strong>SinoCoffee</strong></p>
+      <p>Coffee brand site with a menu, subscriptions, a cart and user sign-in.</p>
+      <p><sub>React · TypeScript · Supabase · Tailwind CSS</sub></p>
+      <p><a href="https://sino-coffee.vercel.app/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/sidicksino/SinoCoffee">Code</a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://sidick.vercel.app"><strong>See all projects on my portfolio</strong></a></p>
+
+## Stack
+
+**Data science**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" height="40" alt="Python, TensorFlow, Scikit-learn" />
+
+<sub>Also Pandas, NumPy, Matplotlib, Seaborn, Power BI and Tableau</sub>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="40" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS" />
+
+**Mobile and design**
+
+<img src="https://skillicons.dev/icons?i=react,figma" height="40" alt="React Native, Figma" />
+
+<sub>React Native, Expo and Figma</sub>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,supabase" height="40" alt="Node.js, Express, Django, MySQL, MongoDB, Supabase" />
+
+## Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sidicksino&hide_border=true&background=00000000&ring=E748C8&fire=E748C8&currStreakLabel=E748C8&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=B8B6D4&dates=9C99BD&stroke=30363D" />
+    <img width="600" src="https://streak-stats.demolab.com?user=sidicksino&hide_border=true&background=00000000&ring=B52A9D&fire=B52A9D&currStreakLabel=B52A9D&currStreakNum=1F2328&sideNums=1F2328&sideLabels=444444&dates=616175&stroke=D0D7DE" alt="GitHub contribution streak for sidicksino" />
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidicksino/sidicksino/output/snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/sidicksino/sidicksino/output/snake-light.svg" alt="Animated snake eating sidicksino's GitHub contribution graph" />
+</picture>

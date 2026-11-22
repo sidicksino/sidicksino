@@ -1,4 +1,4 @@
-<a href="https://sidick.vercel.app">
+<a href="https://www.sidickabdoulaye.com">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png" />
     <img width="100%" src="assets/banner.webp" alt="Sidick Abdoulaye Hissein. Data Scientist and Full-Stack Developer." />
@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <a href="https://sidick.vercel.app"><strong>Portfolio</strong></a>
+  <a href="https://www.sidickabdoulaye.com"><strong>sidickabdoulaye.com</strong></a>
   &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/sidick-sino">LinkedIn</a>
   &nbsp;&middot;&nbsp;
@@ -72,7 +72,7 @@ My goal is to build digital products that genuinely serve students and entrepren
   </tr>
 </table>
 
-<p align="center"><a href="https://sidick.vercel.app"><strong>See all projects on my portfolio</strong></a></p>
+<p align="center"><a href="https://www.sidickabdoulaye.com"><strong>See all projects on my portfolio</strong></a></p>
 
 ## Stack
 
@@ -100,8 +100,8 @@ My goal is to build digital products that genuinely serve students and entrepren
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sidicksino&hide_border=true&background=00000000&ring=E748C8&fire=E748C8&currStreakLabel=E748C8&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=B8B6D4&dates=9C99BD&stroke=30363D" />
-    <img width="600" src="https://streak-stats.demolab.com?user=sidicksino&hide_border=true&background=00000000&ring=B52A9D&fire=B52A9D&currStreakLabel=B52A9D&currStreakNum=1F2328&sideNums=1F2328&sideLabels=444444&dates=616175&stroke=D0D7DE" alt="GitHub contribution streak for sidicksino" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sidicksino&hide_border=true&background=00000000&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=B8B6D4&dates=9C99BD&stroke=30363D" />
+    <img width="600" src="https://streak-stats.demolab.com?user=sidicksino&hide_border=true&background=00000000&ring=4D7C0F&fire=4D7C0F&currStreakLabel=4D7C0F&currStreakNum=1F2328&sideNums=1F2328&sideLabels=444444&dates=616175&stroke=D0D7DE" alt="GitHub contribution streak for sidicksino" />
   </picture>
 </p>
 
